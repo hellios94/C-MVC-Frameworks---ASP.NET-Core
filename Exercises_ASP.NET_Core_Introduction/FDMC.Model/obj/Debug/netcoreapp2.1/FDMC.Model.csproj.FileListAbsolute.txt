@@ -1,0 +1,9 @@
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\bin\Debug\netcoreapp2.1\FDMC.Model.deps.json
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\bin\Debug\netcoreapp2.1\FDMC.Model.dll
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\bin\Debug\netcoreapp2.1\FDMC.Model.pdb
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\obj\Debug\netcoreapp2.1\FDMC.Model.csprojAssemblyReference.cache
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\obj\Debug\netcoreapp2.1\FDMC.Model.csproj.CoreCompileInputs.cache
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\obj\Debug\netcoreapp2.1\FDMC.Model.AssemblyInfoInputs.cache
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\obj\Debug\netcoreapp2.1\FDMC.Model.AssemblyInfo.cs
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\obj\Debug\netcoreapp2.1\FDMC.Model.dll
+D:\.Net Developement\C# MVC Frameworks - ASP.NET Core\Exercises_ASP.NET_Core_Introduction\FDMC.Model\obj\Debug\netcoreapp2.1\FDMC.Model.pdb

@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "AddCat";
+}
+
+<h2>Add Cat</h2>
+
+<form asp-controller="Cats" asp-action="AddCat" method="post">
+    Name: <input type="text" name="Name" value="" /><br /> <br />
+    Age: <input type="number" name="Age" value="" /><br /> <br />
+    Breed: <input type="text" name="Breed" value="" /><br /> <br />
+    ImageUrl: <input type="url" name="ImageUrl" value="" /><br /> <br />
+   <button type="submit">Add Cat</button>   
+</form>
+
